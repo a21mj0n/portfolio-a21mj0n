@@ -1,0 +1,18 @@
+{
+  "name": "academy",
+  "version": "1.0.0",
+  "description": "academy own web-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "web",
+    "development",
+    "front-end"
+  ],
+  "author": "a21mj0n",
+  "license": "ISC"
+}
